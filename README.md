@@ -73,4 +73,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Official links
 
-[DI website](https://di.xyz/) · [Whitepaper](https://whitepaper.di.xyz/) · [Whitepaper source](https://github.com/Di-Foundation/di-whitepaper)
+[DI website](https://di.xyz/) · [Whitepaper](https://whitepaper.di.xyz/) · [Whitepaper source](https://github.com/didotxyz/di-whitepaper)
