@@ -69,4 +69,4 @@ Owner 只能暂停或恢复新签到，以及执行两步式所有权转移。�
 
 ## 官方链接
 
-[DI 官网](https://di.xyz/) · [白皮书](https://whitepaper.di.xyz/zh/) · [白皮书源文档](https://github.com/Di-Foundation/di-whitepaper)
+[DI 官网](https://di.xyz/) · [白皮书](https://whitepaper.di.xyz/zh/) · [白皮书源文档](https://github.com/didotxyz/di-whitepaper)
